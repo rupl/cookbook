@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Cookbook feature.
+ */
+
+include_once('cookbook.features.inc');
